@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "username": "alice",
+    "email": "alice@example.com",
+    "phone": "123-456-7890"
+  },
+  {
+    "id": 2,
+    "username": "bob",
+    "email": "bob@example.com",
+    "phone": "987-654-3210"
+  },
+  {
+    "id": 3,
+    "username": "charlie",
+    "email": "charlie@example.com",
+    "phone": "555-123-4567"
+  },
+  {
+    "id": 4,
+    "username": "david",
+    "email": "david@example.com",
+    "phone": "111-222-3333"
+  },
+  {
+    "id": 5,
+    "username": "eve",
+    "email": "eve@example.com",
+    "phone": "444-555-6666"
+  },
+  {
+    "id": 6,
+    "username": "frank",
+    "email": "frank@example.com",
+    "phone": "777-888-9999"
+  },
+  {
+    "id": 7,
+    "username": "grace",
+    "email": "grace@example.com",
+    "phone": "101-202-3030"
+  },
+  {
+    "id": 8,
+    "username": "heidi",
+    "email": "heidi@example.com",
+    "phone": "404-505-6060"
+  },
+  {
+    "id": 9,
+    "username": "ivan",
+    "email": "ivan@example.com",
+    "phone": "707-808-9090"
+  },
+  {
+    "id": 10,
+    "username": "judy",
+    "email": "judy@example.com",
+    "phone": "212-313-4141"
+  }
+]
